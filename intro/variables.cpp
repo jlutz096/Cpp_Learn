@@ -13,3 +13,5 @@ int main()
     std::cout << result << std::endl;
     return 0;
 }
+
+// output is 4
