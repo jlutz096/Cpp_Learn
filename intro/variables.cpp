@@ -2,7 +2,14 @@
 
 int main()
 {
-    std::cout << "Hello" << std::endl;
+    int a, b;
+    int result;
 
+    a = 6;
+    b = 3;
+    a += 1;
+    result = a - b;
+
+    std::cout << result << std::endl;
     return 0;
 }
